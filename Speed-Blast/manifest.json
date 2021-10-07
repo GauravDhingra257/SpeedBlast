@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Speed Blast",
+  "description": "Increase VideoPlayBack Speed",
+  "version": "1.0.68",
+  "icons": { "128": "icon_128.png" },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["main.js"]
+    }
+  ],
+
+  "browser_action": {
+    "default_icon": "icon_128.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "tabs", "storage"]
+}
