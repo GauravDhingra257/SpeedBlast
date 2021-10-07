@@ -4,10 +4,6 @@
 
 ![Logo](https://raw.githubusercontent.com/GauravDhingra257/SpeedBlast/main/SpeedBlastlogo.png)
 
-## Authors
-
-- [@GauravDhingra257](https://github.com/GauravDhingra257)
-
 ## Demo
 
 ![SpeedBlast](https://raw.githubusercontent.com/GauravDhingra257/SpeedBlast/main/SpeedBlast.gif)
@@ -32,3 +28,7 @@ Install Speed Blast
   Select the speedBlast/Speed-Blast folder ⚡
   Extension is successfully installed  🔥
 ```
+
+## Creator
+
+- [@GauravDhingra257](https://github.com/GauravDhingra257)
